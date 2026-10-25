@@ -12,7 +12,7 @@ This app is memory game with images referring to games and accessories of the fi
 - This app has been tested with VirusTotal. Results are at the page bottom.
 
 ## Screenshots
-<img width="270" height="585" alt="Foto1" src="https://github.com/user-attachments/assets/f45475b9-399c-4e85-bbd2-a4ce438423ad" /> <img width="270" height="585" alt="Foto2" src="https://github.com/user-attachments/assets/96d0e748-13a2-482b-8551-7698d3a62f5c" /> <img width="270" height="585" alt="Foto3" src="https://github.com/user-attachments/assets/07d4a94a-26b1-4cf6-bf6b-cb67d7112ac1" />
+<img width="280" height="585" alt="Foto1" src="https://github.com/user-attachments/assets/f45475b9-399c-4e85-bbd2-a4ce438423ad" /> <img width="280" height="585" alt="Foto2" src="https://github.com/user-attachments/assets/96d0e748-13a2-482b-8551-7698d3a62f5c" /> <img width="280" height="585" alt="Foto3" src="https://github.com/user-attachments/assets/07d4a94a-26b1-4cf6-bf6b-cb67d7112ac1" />
 
 ## VirusTotal Scan
 This app has been tested with VirusTotal. The results are available here: 
